@@ -1,4 +1,6 @@
 
 
 let btn = document.querySelector('button')
-btn.onclick = function ()=> alert("h")
+btn.onclick = function () {
+    alert("h")
+}
